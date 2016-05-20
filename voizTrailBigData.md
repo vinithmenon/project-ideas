@@ -13,3 +13,9 @@ _to be provided by VoizTrail team_
 
 Can BigData help come up with a better optimization of workforce allotment? 
 
+Sir, Yes through Big Data its possible and I would come with a design. Have some constraints in collecting past data. however this can be sketched 
+
+Thanks
+
+Vinith
+
